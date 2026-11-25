@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
-  "date": "2026-09-28",
-  "notes": "First build: proves the installers and the update check on Windows and macOS."
+  "version": "0.2.2",
+  "date": "2026-11-25",
+  "notes": "Shows RAW files that have no JPG (the JPEG the camera stores inside the RAW), with in-camera ratings; marks on a DNG are written inside the DNG, where Lightroom reads them; AI plans apply in every camera folder of a shoot. Installers: Sportmedia común/Recursos/Recursos Apps."
 }
